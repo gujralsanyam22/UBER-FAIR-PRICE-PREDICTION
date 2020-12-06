@@ -112,7 +112,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 [<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) 
 
- [<img src="https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/assets/streamlit-logo.png?raw=true" align="right" height="100" width="100">](https://streamlit.io)
+ [<img src="https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/assets/streamlit-logo.png?raw=true"  width="200">](https://streamlit.io)
 
 
 

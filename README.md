@@ -1,4 +1,4 @@
-# UBER-FAIR-PRICE-PREDICTION [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gujralsanyam22/Uber-Fair-Price-Prediction/app.py)
+# UBER-FAIR-PRICE-PREDICTION [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gujralsanyam22/Uber-Fair-Price-Prediction/uberriders.py)
 
 ## Table of Content
   * [Demo](#demo)
